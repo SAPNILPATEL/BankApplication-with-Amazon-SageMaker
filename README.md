@@ -8,7 +8,7 @@
 
 Contributions are always welcome! 😎
 
-To contribute to BankApplication-with-Amazon-SageMaker, follow these steps:
+To contribute to BankApplication_with_Amazon_SageMaker, follow these steps:
 
 1. Star the repository ⭐.
 2. Fork the repository.
