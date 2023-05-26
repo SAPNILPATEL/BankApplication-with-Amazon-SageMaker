@@ -1,5 +1,0 @@
-# BankApplication-with-Amazon-SageMaker requirements
-# Usage: pip install -r requirements.txt
-
-Tensorflow=2.5.0
-Numpy=1.22.0
