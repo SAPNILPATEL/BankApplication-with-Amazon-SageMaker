@@ -4,15 +4,18 @@
 
 - This repository contains the file of Bank application. It is made with the help of Amazon sagemaker.
 
-## Contributing
+## Contributing 
 
-Contributions are always welcome!
+Contributions are always welcome! 😎
 
 To contribute to BankApplication-with-Amazon-SageMaker, follow these steps:
 
-1. Star the repository.
+1. Star the repository ⭐.
 2. Fork the repository.
 3. Create a new branch.
 4. Make your changes and commit them.
 5. Push your changes to your forked repository.
-6. Submit a pull request.
+6. Submit a pull request ✨.
+
+## License
+[MIT License](https://github.com/SAPNILPATEL/BankApplication-with-Amazon-SageMaker/blob/main/LICENSE)
