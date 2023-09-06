@@ -1,4 +1,4 @@
-- This repository contains the files of the Bank application. It is made with the help of Amazon Sagemaker.
+- Leveraged Amazon SageMaker's cutting-edge tools and techniques to construct a state-of-the-art recommendation system, accurately foretelling whether customers are likely to purchase specific products.
 
 ## Contributing 
 
